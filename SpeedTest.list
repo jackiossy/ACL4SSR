@@ -6,6 +6,8 @@ USER-AGENT,SpeedTest*
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-SUFFIX,speedtest.net
+
 
 # > Speed Test by Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
