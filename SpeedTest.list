@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,fast.com
 USER-AGENT,SpeedTest*
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,ookla.com
 DOMAIN-SUFFIX,speed.dler.io
 DOMAIN-SUFFIX,speedtest.net
 
